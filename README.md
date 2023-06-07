@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizfpoliveira
-- 👀 I’m interested in working for a internacional company
+- 👀 I’m interested in working for a Internacional Company
 - 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me luizfpeoliveira@gmail.com
 
 <!---
