@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @luizfpoliveira
-- 👀 I’m interested in working for a Internacional Company
-- 🌱 I’m currently learning HTML/CSS/JavaScript
-- 💞️ I’m looking to collaborate on Websites
-- 📫 How to reach me luizfpeoliveira@gmail.com
-
-<!---
-luizfpoliveira/luizfpoliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello world! I'm Luiz Oliveira, a passionate Mobile software developer and tech enthusiast on a perpetual quest for elegant solutions to complex problems. My coding journey began with a fascination for turning ideas into lines of code, and it has evolved into a love for crafting robust, scalable software. Proficient in languages like JavaScript and Swift, I thrive in collaborative environments where creativity and innovation flourish. Whether I'm building sleek React Native or Swift app, I'm committed to delivering high-quality code that stands the test of time. Let's connect, collaborate, and create amazing things together!
